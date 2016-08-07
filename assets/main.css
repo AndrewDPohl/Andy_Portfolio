@@ -64,7 +64,7 @@ body {
 .mainmenu .dropdown-menu {
   top: -14em;
   left: 0px;
-  font-size: 13px;
+  font-size: 18px;
   padding:0;
   background:none;
   border:0 none;
@@ -247,7 +247,6 @@ a:hover, a:active { color:#FFFFFF; text-decoration: underline; }
 }
 
 
-
 /********************************************************/
 /*                 Everything else                      */
 /********************************************************/
@@ -269,6 +268,10 @@ a:hover, a:active { color:#FFFFFF; text-decoration: underline; }
 #social .wrapper { 
   width:340px; 
   margin:0 auto;
+}
+
+.project {
+  min-height: 650px;
 }
 
 
