@@ -167,6 +167,9 @@ a:hover, a:active { color:#FFFFFF; text-decoration: underline; }
   color: white;
   text-align: center;
   margin: 0 auto;
+  font-size: 1.4em;
+  line-height: 1.3em;
+  font-weight: normal;
 }
 
 .about_me_tag {
@@ -274,7 +277,13 @@ a:hover, a:active { color:#FFFFFF; text-decoration: underline; }
   min-height: 650px;
 }
 
+.bio {
+  margin-bottom: 20px;
+}
 
+.bio-link {
+  color: red;
+}
 
 
 
